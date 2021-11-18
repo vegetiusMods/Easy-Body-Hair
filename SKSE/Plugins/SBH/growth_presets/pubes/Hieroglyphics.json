@@ -1,0 +1,13 @@
+{
+	"stringList" : 
+	{
+        "pubes" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Short_Petite.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Short_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Med_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Long_Sparse.dds"
+		]
+    }
+}

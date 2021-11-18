@@ -1,0 +1,62 @@
+{
+	"stringList" : 
+	{
+		"types" : 
+		[
+			"Fair Sparse",
+			"Fair Dense",
+			"Fair Curly",
+			"Dark Sparse",
+			"Dark Dense",
+			"Dark Curly"
+		],
+		"Fair Sparse" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Short_Petite.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Short_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Med_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Long_Sparse.dds"
+		],
+		"Fair Dense" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Short_Petite.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Short_Dense.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Med_Dense.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Long_Dense.dds"
+		],
+		"Fair Curly" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Short_Petite.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Short_Curly.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Med_Curly.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Long_Curly.dds"
+		],
+		"Dark Sparse" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Short_Petite.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Short_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Med_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Long_Sparse.dds"
+		],
+		"Dark Dense" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Short_Petite.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Short_Dense.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Med_Dense.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Long_Dense.dds"
+		],
+		"Dark Curly" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Short_Petite.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Short_Curly.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Short_CurlyWild.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Long_Curly.dds"
+		]
+	}
+}

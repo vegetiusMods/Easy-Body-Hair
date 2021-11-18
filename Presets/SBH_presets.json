@@ -1,0 +1,20 @@
+{
+	"stringList" : 
+	{
+		"armpits" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Fair_Short_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Fair_Med_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Fair_Long_Sparse.dds"
+		],
+        "pubes" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Short_Petite.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Short_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Med_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Fair_Long_Sparse.dds"
+		]
+    }
+}

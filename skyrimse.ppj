@@ -1,0 +1,21 @@
+<?xml version='1.0'?><!-- Game is either sse, tesv, or fo4 -->
+<PapyrusProject xmlns="PapyrusProject.xsd" 
+    Flags="TESV_Papyrus_Flags.flg" 
+    Game="sse" 
+    Output="Scripts" 
+    Optimize="false" 
+    Release="false" 
+    Final="false">
+    <Variables>
+        <Variable Name="ModName" Value="Simple Body Hair"/>
+        <Variable Name="MyProject" Value="."/>
+        <Variable Name="Dist" Value="..\dist"/>
+    </Variables>
+    <Imports>
+        <Import>.\Source\Scripts</Import>
+        <Import>C:\Modding\SkyrimSEL\mods\Scripts\Source\Scripts</Import>
+    </Imports>
+    <Folders>
+        <Folder>.\Source\Scripts</Folder>
+    </Folders>
+</PapyrusProject>

@@ -1,0 +1,56 @@
+{
+	"stringList" : 
+	{
+		"types" : 
+		[
+			"Fair Sparse",
+			"Fair Dense",
+			"Fair Wild",
+			"Dark Sparse",
+			"Dark Dense",
+			"Dark Wild"
+		],
+		"Fair Sparse" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Fair_Short_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Fair_Med_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Fair_Long_Sparse.dds"
+		],
+		"Fair Dense" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Fair_Short_Dense.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Fair_Med_Dense.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Fair_Long_Dense.dds"
+		],
+		"Fair Wild" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Fair_Short_Wild.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Fair_Med_Wild.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Fair_Long_Wild.dds"
+		],
+		"Dark Sparse" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Dark_Short_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Dark_Med_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Dark_Long_Sparse.dds"
+		],
+		"Dark Dense" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Dark_Short_Dense.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Dark_Med_Dense.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Dark_Long_Dense.dds"
+		],
+		"Dark Wild" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Dark_Short_Wild.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Dark_Med_Wild.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pit - Dark_Long_Wild.dds"
+		]
+	}
+}
