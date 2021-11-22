@@ -1,6 +1,6 @@
-Scriptname SBHShavingCream extends activemagiceffect  
+Scriptname EBHShavingCream extends activemagiceffect  
 
-SBHQuest Property MainQuest Auto
+EBHQuest Property MainQuest Auto
 Potion Property ShavingCream Auto
 
 Event OnEffectStart(Actor akTarget, Actor akCaster)

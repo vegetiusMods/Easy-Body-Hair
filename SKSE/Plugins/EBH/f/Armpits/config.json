@@ -1,0 +1,11 @@
+{
+	"form" : 
+	{
+		"preventaccessformlist" : "0x1d8a|Easy Body Hair.esp",
+		"shavingidle" : "0x75c3d|Skyrim.esm"
+	},
+	"formList" : 
+	{
+		"preventAccessKeywords" : []
+	}
+}

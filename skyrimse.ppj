@@ -7,7 +7,7 @@
     Release="false" 
     Final="false">
     <Variables>
-        <Variable Name="ModName" Value="Simple Body Hair"/>
+        <Variable Name="ModName" Value="Easy Body Hair"/>
         <Variable Name="MyProject" Value="."/>
         <Variable Name="Dist" Value="..\dist"/>
     </Variables>

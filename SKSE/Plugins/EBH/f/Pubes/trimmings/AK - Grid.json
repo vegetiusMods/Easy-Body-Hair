@@ -1,0 +1,10 @@
+{
+	"string" : 
+	{
+        "texture" : "\\actors\\character\\ak_rm_pubic_hair_all_in_one\\ak_01_trimmed01.dds"
+    },
+	"int" :
+	{
+		"stage" : 1
+	}
+}

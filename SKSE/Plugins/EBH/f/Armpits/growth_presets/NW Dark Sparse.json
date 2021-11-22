@@ -1,0 +1,17 @@
+{
+	"stringList" : 
+	{
+		"requirements":
+		[
+			"Actors\\Nordic Warmaiden Hair"
+		],
+		"stages" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pits - Dark_Short_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pits - Dark_Short_Petite.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pits - Dark_Med_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pits - Dark_Long_Sparse.dds"
+		]
+    }
+}

@@ -1,0 +1,13 @@
+{
+	"stringList" : 
+	{
+        "stages" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Character\\Character Assets\\Overlays\\Hieroglyphics\\Unkempt.dds",
+			"Actors\\Character\\Character Assets\\Overlays\\Hieroglyphics\\Tuft.dds",
+			"Actors\\Character\\Character Assets\\Overlays\\Hieroglyphics\\Muff.dds",
+			"Actors\\Character\\Character Assets\\Overlays\\Hieroglyphics\\Wild Style.dds"
+		]
+    }
+}

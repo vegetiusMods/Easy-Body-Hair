@@ -1,0 +1,10 @@
+{
+	"string" : 
+	{
+        "texture" : "Actors\\Character\\Character Assets\\Overlays\\Hieroglyphics\\Mohawk.dds"
+    },
+	"int" :
+	{
+		"stage" : 2
+	}
+}

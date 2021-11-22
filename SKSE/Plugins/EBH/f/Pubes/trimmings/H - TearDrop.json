@@ -1,0 +1,10 @@
+{
+	"string" : 
+	{
+        "texture" : "Actors\\Character\\Character Assets\\Overlays\\Hieroglyphics\\Teardrop.dds"
+    },
+	"int" :
+	{
+		"stage" : 1
+	}
+}

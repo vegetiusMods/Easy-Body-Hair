@@ -1,0 +1,19 @@
+{
+	"stringList" : 
+	{
+		"requirements":
+		[
+			"Actors\\Nordic Warmaiden Hair",
+			"Actors\\Character\\Character Assets\\Overlays\\Hieroglyphics"
+		],
+		"stages" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Character\\Character Assets\\Overlays\\Hieroglyphics\\Armpit Stubble.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pits - Dark_Short_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pits - Dark_Short_Petite.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pits - Dark_Med_Sparse.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pits - Dark_Long_Sparse.dds"
+		]
+    }
+}

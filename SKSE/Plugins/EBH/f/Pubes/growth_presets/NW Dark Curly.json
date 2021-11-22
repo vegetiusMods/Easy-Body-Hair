@@ -1,0 +1,13 @@
+{
+	"stringList" : 
+	{
+        "stages" : 
+		[
+			"actors\\character\\overlays\\default.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Short_Petite.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Short_Curly.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Med_Curly.dds",
+			"Actors\\Nordic Warmaiden Hair\\dePog - Pubes - Dark_Long_Curly.dds"
+		]
+    }
+}
