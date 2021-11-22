@@ -7,7 +7,7 @@
     Anonymize="true" 
     Zip="true">
     <Variables>
-        <Variable Name="ModName" Value="OStd"/>
+        <Variable Name="ModName" Value="Easy Body Hair"/>
         <Variable Name="MyProject" Value="."/>
         <Variable Name="Dist" Value="..\dist"/>
     </Variables>
@@ -30,6 +30,8 @@
             <Include>Scripts</Include>
             <Include>Seq</Include>
             <Include>Source</Include>
+            <Include>SKSE</Include>
+            <Include>fomod</Include>
         </ZipFile>
     </ZipFiles>
 </PapyrusProject>
