@@ -19,6 +19,7 @@
         <Import>https://github.com/MrOctopus/nl_online/tree/main/skse64/source</Import>
         <Import>https://github.com/MrOctopus/nl_online/tree/main/sse/source</Import>
         <Import>https://github.com/vegetiusMods/MiscPapyrusDependencies/tree/master/Racemenu</Import>
+        <Import>https://github.com/vegetiusMods/MiscPapyrusDependencies/tree/master/UIExtensions</Import>
     </Imports>
     <Folders>
         <Folder>@MyProject\Source\Scripts</Folder>
